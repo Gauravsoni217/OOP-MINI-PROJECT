@@ -1,0 +1,1 @@
+Place your genuine terminal screenshots in this folder after compiling and running the project. Suggested: main-menu.png, add-student.png, display-records.png, search-student.png, update-student.png, delete-student.png.

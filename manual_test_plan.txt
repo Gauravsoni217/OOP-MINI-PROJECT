@@ -1,0 +1,1 @@
+Manual testing plan: Follow docs/Test_Cases.md. Record actual result and pass/fail for each test. Capture genuine terminal screenshots for submission.
